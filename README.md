@@ -35,6 +35,8 @@ You need PC, laptop or smartphone with Mozilla,Edge or Safari browser to visit t
 
 # Contact
 * Hema - khemalatha507@gmail.com
+* [Day-planner](https://hema0618.github.io/Day-planner/ "Day-planner")
+* Repository URL:https://github.com/hema0618/Day-planner
 
 
-Screenshots of how the application will look
+
