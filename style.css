@@ -81,12 +81,6 @@ textarea {
   font-size: 25px;
 }
 
-.saveBtn:Hover {
-  font-size: 35px;
-  opacity: 0.6;
-  transition: all .3s ease-in-out;
-}
-
 .clearBtn {
   float: center;
   border-radius: 10px;
